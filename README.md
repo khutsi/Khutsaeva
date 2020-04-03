@@ -1,5 +1,3 @@
-1 Л.р
-1. Поместить файлы lab1.cpp and data.csv в одну папку
-2. В командной строке скопмилировать программу : g++ lab1.cpp -o test
-3. Далее запустить программу : ./test 
-4. Получаем результат
+telegram: @gladdude
+e-mail: gladdude1@gmail.com
+ICQ: <error>
