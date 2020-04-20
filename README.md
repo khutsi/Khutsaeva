@@ -4,8 +4,12 @@
 3. Запустить программу: ./test 
 4. Получаем результат 
 
+Л.р. 2
+1. Поместить файлы все файлы в одну папку в одну папку
+2. В командной строке ввести chmod +x nfdump_to_data.sh
+3. Запускаем ./nfdump_to_data.sh
+Скрипт запускает программу main.cpp, а та в свою очередь (после выполнения своей работы) plot.py
 
-
-telegram: @gladdude
-e-mail: gladdude1@gmail.com
-ICQ: <error>
+telegram: @gladdude;
+e-mail: gladdude1@gmail.com;
+ICQ: <error>:
